@@ -11,12 +11,23 @@ Filament sensor requires two parts
 
 # Assembly instructions and tips
 
-#1: Magnet insertion
+#1: Magnet Insertion
 Insert the magnet into the Front_body_LGX_Lite_Stealthburner_ERCF magnet hole. Make sure the magnet can move freely within the hole. There must be no resistance when moving the magnet. The magnet should enter the filament hole by about 1.25mm.
 
- ![Insert Magnet Instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/InsertMagnet.jpg)
+ ![Insert magnet instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/InsertMagnet.jpg)
 
-#2: Button wiring
+#2: Button Wiring
 Solder two wires to the button and pass the wires through the holes at the back of the button hole in Rear_body_LGX_Lite_Stealthburner_ERCF part. I will talk more about my personal preference for wiring at the end of this document.
 
- ![Insert Magnet Instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/buttonWiringHoles.jpg)
+ ![Button wiring instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/buttonWiringHoles.jpg)
+
+#3: Button Insertion
+Start inserting the button into Rear_body_LGX_Lite_Stealthburner_ERCF part. It might be a tight fit and require a little bit of force to insert it all the way but make sure that it goes all the way in. After insertion, the button should protrude
+by about 0.75mm from the front.
+
+ ![Button insertion instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/insertButton.jpg)
+
+#4: Self Tapping Screws(Optional)
+I left holes in Rear_body_LGX_Lite_Stealthburner_ERCF to allow screwing in the button with M2x8mm self tapping screws. I peronsally used [these screws](https://www.amazon.com/gp/product/B00YBMRAH4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1). Note that this step should be optional since the button should already be snuggly fitted into the part and later on it will get sandwiched between the two parts. Regardless, I did all my testing with the screws so skip this step at your own risk.
+
+ ![Self tapping screws instruction photo](https://github.com/Saikedo/Stealthburner_LGX_Lite_ERCF_microswitch_filament_sensor/blob/main/IMAGES/selfTappingScrews.jpg)
