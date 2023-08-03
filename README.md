@@ -9,6 +9,9 @@ The filament sensor requires two components:
 * D2F-01L Switch (Other switches with similar dimensions should work just fine)
 * 6x3mm magnet (You don't actually require a magnet; anything with dimensions of 6mmx3mm should suffice). It's crucial to have the cylinder's radius as close to 6mm as possible. The height doesn't need to be as precise, but aim for less than 3mm.
 
+# Printing Instructions
+For printing, utilize the default Voron parts printing settings. There's no need for additional supports or alterations in settings.
+
 # Assembly Instructions and Tips
 
 # Step 1: Magnet Insertion
